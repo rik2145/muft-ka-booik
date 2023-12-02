@@ -1,0 +1,48 @@
+.img-responsive{
+              font-family: cursive;
+}
+.container-fluid{
+              background-color: bisque;
+}
+
+
+.fw-light{
+              
+              
+              font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.field--name-field-title {
+              font-weight: 700;
+              line-height: 1;
+              text-transform: uppercase;
+          }
+          .h2{
+              text-align: right;
+            
+          }
+          .toi{
+              padding: 10px;
+          }
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    padding: 40PX;
+    margin: 20PX;
+    border-radius: 5PX;
+}
+.doh{
+
+}
+.navbar{
+    margin-top: 0px;
+    margin: 0;
+    padding: 0;
+    
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+  }
